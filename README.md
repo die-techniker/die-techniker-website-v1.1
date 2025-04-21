@@ -6,10 +6,14 @@ Dies ist eine Formatforlage die Herruntergeladen werden kann und auf die Webseit
 - Startseite
 - README
 
-Wenn sie das Repository erstellen gehen sie auf:
+Sobald sie das Repository erstellt haben gehen sie auf:*1
 
-Settings -> Pages -> Source
+Weil man keinen Ordner Importieren kann soll man die Datei Ohne Ordner mitnehmen und zu **.github/workflows/absendung.yml** Umbenennen
+
+*1 Settings -> Pages -> Source
 
 und stellen **Deploy from a Branch** ab und aktivieren **GitHub Actions**
 
 # [Zum Download](https://github.com/die-techniker/die-techniker-website-v1.1/releases)
+
+
